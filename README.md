@@ -9,8 +9,8 @@ Objectives:
   
   Store the returned information in a list after using the requests library to connect to the API.
   
-  Convert the JSON data into organized dataframes.
+  Convert the JSON data into organized dataframes, and save the data to CSV files to later use. 
   
-  Comparing the values of the dataframes to find the coordinate locations with the most expensive, and populated establishment areas. 
+  Comparing the values of the dataframes using Matplotlib, to find the coordinate locations with the most expensive, and populated establishment areas. Using these findings to create visualizations to be stored.
   
 
